@@ -1,0 +1,797 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\Logo.gif",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\Logo.gif"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\about.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\about.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\baner-badges.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\baner-badges.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\baner-forum.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\baner-forum.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\baner-statics.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\baner-statics.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\baner-typography.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\baner-typography.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\events.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\events.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\excel.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\excel.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\file.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\file.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\notification-admin.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\notification-admin.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\notification-default.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\notification-default.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\notification-exam.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\notification-exam.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\notification-money.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\notification-money.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\notification-post.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\notification-post.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\pdf.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\pdf.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\photo-02.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\photo-02.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\powerpoint.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\powerpoint.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\rar.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\rar.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\theme-bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\theme-bg.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\Resources\\word.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\Resources\\word.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\roomCover\\ajg-atv-ims-101.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\roomCover\\ajg-atv-ims-101.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\roomCover\\cover-default.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\roomCover\\cover-default.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\roomCover\\dav-fcj-vtu-346.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\roomCover\\dav-fcj-vtu-346.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\roomCover\\fpv-gnj-laj-883.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\roomCover\\fpv-gnj-laj-883.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\roomCover\\tep-bje-sma-622.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\roomCover\\tep-bje-sma-622.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userAvt\\avt-U000001-593.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userAvt\\avt-U000001-593.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userAvt\\avt-U000001-81.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userAvt\\avt-U000001-81.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userAvt\\avt-U000002-478.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userAvt\\avt-U000002-478.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userAvt\\avt-default.png",
+      "PackagePath": "staticwebassets\\Content\\Img\\userAvt\\avt-default.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userBG\\bg-U000001-205.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userBG\\bg-U000001-205.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userBG\\bg-U000002-725.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userBG\\bg-U000002-725.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\Img\\userBG\\bg-default.jpg",
+      "PackagePath": "staticwebassets\\Content\\Img\\userBG\\bg-default.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\SQL\\CreateTableFromSQL.txt",
+      "PackagePath": "staticwebassets\\Content\\SQL\\CreateTableFromSQL.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\SQL\\script.sql",
+      "PackagePath": "staticwebassets\\Content\\SQL\\script.sql"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-001-1554969988_hinh-nen-4k-tuyet-dep-cho-may-tinh-08.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-001-1554969988_hinh-nen-4k-tuyet-dep-cho-may-tinh-08.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-001-anh-hoa-oai-huong-dep.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-001-anh-hoa-oai-huong-dep.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-001-bien-dao-co-to.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-001-bien-dao-co-to.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-001-doi-mong-mo-1.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-001-doi-mong-mo-1.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-001-ec6b2b877f7a20be4ab082f317fd8a3d.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-001-ec6b2b877f7a20be4ab082f317fd8a3d.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-002-bien-dao-co-to.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-002-bien-dao-co-to.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-004-BAI TAP TONG HOP.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-004-BAI TAP TONG HOP.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-004-BAOCAO_QTDA.ppt",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-004-BAOCAO_QTDA.ppt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-004-New Text Document.txt",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-004-New Text Document.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-004-Sodo Pert_baitap_ON TONG HOP.xlsx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-004-Sodo Pert_baitap_ON TONG HOP.xlsx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-004-Thuyết trình.docx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-004-Thuyết trình.docx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-006-107.jpg",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-006-107.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-006-382.jpg",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-006-382.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-006-418.jpg",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-006-418.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-006-432.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-006-432.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\fpv-gnj-laj-007-287.jpg",
+      "PackagePath": "staticwebassets\\Content\\filePost\\fpv-gnj-laj-007-287.jpg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\hru-bpv-nul-001-Danh sách lớp.xlsx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\hru-bpv-nul-001-Danh sách lớp.xlsx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\hru-bpv-nul-002-Hàm số.docx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\hru-bpv-nul-002-Hàm số.docx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\hru-bpv-nul-003-Nguyên hàm.pptx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\hru-bpv-nul-003-Nguyên hàm.pptx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\hru-bpv-nul-003-Tích phân.docx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\hru-bpv-nul-003-Tích phân.docx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-001-Giao_trinh_SQL.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-001-Giao_trinh_SQL.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-001-Luu_y_khi_tao_Form.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-001-Luu_y_khi_tao_Form.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-001-SQL_Server_Thao_tac_co_ban.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-001-SQL_Server_Thao_tac_co_ban.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-001-Su dung ComboBox trong Form.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-001-Su dung ComboBox trong Form.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-001-Them_thanh_phan_da_co_vao_du_an.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-001-Them_thanh_phan_da_co_vao_du_an.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-002-Loi thuong gap.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-002-Loi thuong gap.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-003-Phan cong_Danh gia_Ket qua BT nhom.docx",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-003-Phan cong_Danh gia_Ket qua BT nhom.docx"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-004-QL_HoiDienVanNghe.bak",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-004-QL_HoiDienVanNghe.bak"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-004-QL_VuiCungHugo.bak",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-004-QL_VuiCungHugo.bak"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-004-Support.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-004-Support.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-005-Picture1.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-005-Picture1.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-005-Picture2.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-005-Picture2.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-005-Picture3.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-005-Picture3.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-005-Picture4.png",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-005-Picture4.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 1.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 1.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 2.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 2.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 3.pdf",
+      "PackagePath": "staticwebassets\\Content\\filePost\\kge-gbn-vdl-006-TN207_Huong dan Chuong 5_Form Lop chuyen nganh_Cach 3.pdf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Template\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\Template\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\Template\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-table\\bootstrap-table-export.min.js",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-table\\bootstrap-table-export.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-table\\bootstrap-table-locale-all.min.js",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-table\\bootstrap-table-locale-all.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-table\\bootstrap-table.min.css",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-table\\bootstrap-table.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-table\\bootstrap-table.min.js",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-table\\bootstrap-table.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap-table\\tableExport.min.js",
+      "PackagePath": "staticwebassets\\Template\\bootstrap-table\\tableExport.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Template\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Template\\css\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\Template\\css\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\color.css",
+      "PackagePath": "staticwebassets\\Template\\css\\color.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\cropper.css",
+      "PackagePath": "staticwebassets\\Template\\css\\cropper.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\Template\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\gift.css",
+      "PackagePath": "staticwebassets\\Template\\css\\gift.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\icon_style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\icon_style.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\jquery.cookieBar.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery.cookieBar.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\nprogress.css",
+      "PackagePath": "staticwebassets\\Template\\css\\nprogress.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\rating.css",
+      "PackagePath": "staticwebassets\\Template\\css\\rating.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Template\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\search-room.css",
+      "PackagePath": "staticwebassets\\Template\\css\\search-room.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\close.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\close.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\close.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\close.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\error.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\error.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\error.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\error.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next-faded.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next-faded.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next-small-faded.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next-small-faded.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next-small.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next-small.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next-small.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next-small.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\next.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\next.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous-faded.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous-faded.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous-small-faded.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous-small-faded.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous-small.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous-small.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous-small.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous-small.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous.png",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous.png"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\strip-skins\\strip\\previous.svg",
+      "PackagePath": "staticwebassets\\Template\\css\\strip-skins\\strip\\previous.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\style_area.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style_area.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\toast-notification.css",
+      "PackagePath": "staticwebassets\\Template\\css\\toast-notification.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\Template\\css\\toastr.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\css\\virtual-select.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\virtual-select.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\VideoJS.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\VideoJS.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\VideoJS.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\VideoJS.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\VideoJS.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\VideoJS.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\feather\\feather.bin",
+      "PackagePath": "staticwebassets\\Template\\fonts\\feather\\feather.bin"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\feather\\feather.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\feather\\feather.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\feather\\feather.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.bold-webfont-1.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.bold-webfont-1.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.bold-webfont.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.bold-webfont.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.italic-webfont-1.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.italic-webfont-1.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.italic-webfont.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.italic-webfont.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.medium-webfont-1.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.medium-webfont-1.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.medium-webfont.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.medium-webfont.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.regular-webfont-1.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.regular-webfont-1.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\roboto\\roboto.regular-webfont.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\roboto\\roboto.regular-webfont.txt"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\fonts\\weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\account.js",
+      "PackagePath": "staticwebassets\\Template\\js\\account.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\admin.js",
+      "PackagePath": "staticwebassets\\Template\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\chat.js",
+      "PackagePath": "staticwebassets\\Template\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\cropper-custom.js",
+      "PackagePath": "staticwebassets\\Template\\js\\cropper-custom.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\cropper.js",
+      "PackagePath": "staticwebassets\\Template\\js\\cropper.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\customDateTime.js",
+      "PackagePath": "staticwebassets\\Template\\js\\customDateTime.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\custom_statistic.js",
+      "PackagePath": "staticwebassets\\Template\\js\\custom_statistic.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\echarts.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\echarts.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\getAPI.js",
+      "PackagePath": "staticwebassets\\Template\\js\\getAPI.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\gift.js",
+      "PackagePath": "staticwebassets\\Template\\js\\gift.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\jquery.number.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.number.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\main-custom.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main-custom.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\paging-with-scroll.js",
+      "PackagePath": "staticwebassets\\Template\\js\\paging-with-scroll.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\pdf.js",
+      "PackagePath": "staticwebassets\\Template\\js\\pdf.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\plugins.bundle.js",
+      "PackagePath": "staticwebassets\\Template\\js\\plugins.bundle.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\purecounter.js",
+      "PackagePath": "staticwebassets\\Template\\js\\purecounter.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\script.js",
+      "PackagePath": "staticwebassets\\Template\\js\\script.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\search-room.js",
+      "PackagePath": "staticwebassets\\Template\\js\\search-room.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\signalr.js",
+      "PackagePath": "staticwebassets\\Template\\js\\signalr.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\table_statistic.js",
+      "PackagePath": "staticwebassets\\Template\\js\\table_statistic.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\toastr.js",
+      "PackagePath": "staticwebassets\\Template\\js\\toastr.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\underscore.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\underscore.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\js\\virtual-select.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\virtual-select.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\Template\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Template\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\Template\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DayHocTrucTuyen.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DayHocTrucTuyen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DayHocTrucTuyen.props",
+      "PackagePath": "build\\DayHocTrucTuyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DayHocTrucTuyen.props",
+      "PackagePath": "buildMultiTargeting\\DayHocTrucTuyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DayHocTrucTuyen.props",
+      "PackagePath": "buildTransitive\\DayHocTrucTuyen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

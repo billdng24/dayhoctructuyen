@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DayHocTrucTuyen
+build_property.RootNamespace = DayHocTrucTuyen
+build_property.ProjectDir = D:\baitaplonc#\DayHocTrucTuyen\DayHocTrucTuyen\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\baitaplonc#\DayHocTrucTuyen\DayHocTrucTuyen
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Admin/Views/Room/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9vbVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Admin/Views/Room/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9vbVxSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Admin/Views/User/Approve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxBcHByb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Admin/Views/User/GiveMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxHaXZlTW9uZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Admin/Views/User/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Exam/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xFeGFtXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Exam/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xFeGFtXE1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Exam/preExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xFeGFtXHByZUV4YW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Exam/viewExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xFeGFtXHZpZXdFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Exam/workExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xFeGFtXHdvcmtFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Post/ViewPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xQb3N0XFZpZXdQREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Room/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xSb29tXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Room/editRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xSb29tXGVkaXRSb29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/Courses/Views/Room/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ291cnNlc1xWaWV3c1xSb29tXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/User/Views/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Areas/User/Views/Notification/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xOb3RpZmljYXRpb25cRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Access/Denied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXERlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Access/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFBhZ2VOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Account/Upgrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVcGdyYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Default/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Default/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb3Vyc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Default/Gift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxHaWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Profile/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Profile/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/Menu/_AdminQuickAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnVcX0FkbWluUXVpY2tBY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/Menu/_RoomMenuLeft.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnVcX1Jvb21NZW51TGVmdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/Menu/_RoomMenuRight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnVcX1Jvb21NZW51UmlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/Menu/_ViewLike.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnVcX1ZpZXdMaWtlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/_LayoutAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/_LayoutArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/_LayoutError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/Shared/_Loading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2FkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/baitaplonc\#/DayHocTrucTuyen/DayHocTrucTuyen/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

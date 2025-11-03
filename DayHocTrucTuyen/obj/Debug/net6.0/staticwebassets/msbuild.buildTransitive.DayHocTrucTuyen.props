@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DayHocTrucTuyen.props" />
+</Project>
