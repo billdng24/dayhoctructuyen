@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj": {}
+    "D:\\C#\\BaiTapLon-T2\\dayhoctructuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj": {}
   },
   "projects": {
-    "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj": {
+    "D:\\C#\\BaiTapLon-T2\\dayhoctructuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj",
+        "projectUniqueName": "D:\\C#\\BaiTapLon-T2\\dayhoctructuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj",
         "projectName": "DayHocTrucTuyen",
-        "projectPath": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj",
+        "projectPath": "D:\\C#\\BaiTapLon-T2\\dayhoctructuyen\\DayHocTrucTuyen\\DayHocTrucTuyen.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\baitaplonc#\\DayHocTrucTuyen\\DayHocTrucTuyen\\obj\\",
+        "outputPath": "D:\\C#\\BaiTapLon-T2\\dayhoctructuyen\\DayHocTrucTuyen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
